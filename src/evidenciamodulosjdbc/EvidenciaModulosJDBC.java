@@ -48,7 +48,7 @@ public class EvidenciaModulosJDBC {
     
 }
 
-// ... Código existente ...
+// ... eliminar ...
 
 try {
     conexion = DriverManager.getConnection(url, usuario, password);
@@ -71,7 +71,7 @@ try {
 }
 
 
-// ... Código existente ...
+// ... modificar ...
 
 try {
     conexion = DriverManager.getConnection(url, usuario, password);
